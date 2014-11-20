@@ -1,0 +1,20 @@
+{
+  "name": "webmodules.org",
+  "version": "0.0.0",
+  "description": "WebModules.org website",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "bower install --config.interactive=false"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sammorrowdrums/webmodules.org"
+  },
+  "author": "Sam Morrow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sammorrowdrums/webmodules.org/issues"
+  },
+  "homepage": "https://github.com/sammorrowdrums/webmodules.org"
+}

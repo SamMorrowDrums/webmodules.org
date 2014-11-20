@@ -1,0 +1,17 @@
+{
+  "name": "webmodules.org",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sammorrowdrums/webmodules.org",
+  "authors": [
+    "Sam Morrow <info@sammorrowdrums.com>"
+  ],
+  "description": "WebModules.org website",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
