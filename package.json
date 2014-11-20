@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sammorrowdrums/webmodules.org/issues"
   },
-  "homepage": "https://github.com/sammorrowdrums/webmodules.org"
+  "homepage": "https://github.com/sammorrowdrums/webmodules.org",
+  "dependencies": {
+    "express": "^4.10.2"
+  }
 }
