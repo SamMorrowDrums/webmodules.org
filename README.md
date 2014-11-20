@@ -39,9 +39,9 @@ The goal is to encourage lots of developers and web-hosts to create services and
 Dev Environment
 ===============
 
-Install [Node.js](http://www.nodejs.org/)
-Install [Docker](docker.com) OR on OSX/Win [Boot2Docker](http://boot2docker.io/)
-Install [Fig](fig.sh)
+- Install [Node.js](http://www.nodejs.org/)
+- Install [Docker](docker.com) OR on OSX/Win [Boot2Docker](http://boot2docker.io/)
+- Install [Fig](fig.sh)
 
 Run npm install
 
